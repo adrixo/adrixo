@@ -31,6 +31,4 @@ Hi, I'm Adrián. I'm interested in the wonderful world of Linux, Machine Learnin
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrixo&layout=compact&hide=Ada,Makefile&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Visitors:
-
 ![Profile views](https://hit.yhype.me/github/profile?user_id=18503463)
