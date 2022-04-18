@@ -1,9 +1,3 @@
-
-## ✨Welcome everyone to my Github!✨
-
-Hi, I'm Adrián. I'm interested in the wonderful world of Linux, Machine Learning, DevOps, IoT, among many other things because computer science is infinite!✨
-
-
 ## 📫 Contact me!
 <p align="center">
 <a href="https://www.linkedin.com/in/adrian-valera/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
