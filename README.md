@@ -11,7 +11,4 @@ Hi, I'm Adrián. I'm interested in the wonderful world of Linux, Machine Learnin
 <a href="https://twitter.com/adrianvalrom"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label"></a>
 </p>
 
-<a href="https://app.daily.dev/adrixo"><img src="https://api.daily.dev/devcards/d4df511dac6e4582a533b101e8fc3510.png?r=zrb" width="400" alt="Adrián Valera Román's Dev Card"/></a>
-
-
 ![Profile views](https://hit.yhype.me/github/profile?user_id=18503463)
